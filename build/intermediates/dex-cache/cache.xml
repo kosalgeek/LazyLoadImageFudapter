@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kosalmac/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/Users/kosalmac/AndroidStudioProjects/LazyLoadImageFudapter/app/build/intermediates/pre-dexed/release/universal-image-loader-1.9.4-03d8d292547c3e160aee1d5f6d0c9b8a36de8ec7.jar" />
+    </item>
+
+</items>
